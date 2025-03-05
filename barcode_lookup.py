@@ -2,7 +2,7 @@
 
 import requests
 from currency import *
-import pandas
+
 API_KEY = '5odpxmgoowyil3qzwqteu45sqfoike'
 
 def lookup(barcode: int) ->str:
